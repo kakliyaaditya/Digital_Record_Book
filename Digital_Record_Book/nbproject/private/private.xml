@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/SubjectCord.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/SubjectTable.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/ILoginTeacher.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/BatchReport.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/Records.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/SubjectCord.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/ChangePass.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/DeleteAssign.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/StudentInfo.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/GroupTable.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/StudentRecord.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/AdminSuccess.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/Logout.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/StudentGetAsg.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/FileUpload.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/CreateTableDao.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/TermWork.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/SubjectAllotment.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/FileDownload.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/CreateTest.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/GetAssignment.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/FileUpload.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/SignUp.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/Login.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/AssignCreate.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/ThirdPage.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/CalculateTermWork.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/NewStudentRecordDisplay.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/DeleteTable.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/ConnectDatabase.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/Download.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/LoginSuccessful.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/admin.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/LoginDao.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/GetUnitTestInfo.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/SubmissionTicketDao.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/LoginTable.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/SetMarksOfStudent.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/FileDao.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/TestMarks.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/UpdateInfo.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/MakeString.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/StudLoginSuccessful.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/com/pict/dao/GetStudent.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/src/java/Login.java</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/Assign.jsp</file>
+            <file>file:/home/sameer/NetBeansProjects/WebApplication1/web/SubmissionTicket.jsp</file>
+        </group>
+    </open-files>
+</project-private>
